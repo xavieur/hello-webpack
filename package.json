@@ -1,0 +1,17 @@
+{
+  "name": "hello-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Xavier Valera",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "serve": "live-server public"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "webpack": "^5.10.3",
+    "webpack-cli": "^4.2.0"
+  }
+}
